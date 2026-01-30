@@ -5,7 +5,6 @@
 </p>
 
 <h1 align="center">✨ Vanshika Pahal ✨</h1>
-<p align="center"><i>Turning caffeine ☕ into clean, scalable code</i></p>
 
 <p align="center">
   <a href="https://github.com/vanshika2720"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -14,6 +13,18 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-00f5ff?style=for-the-badge&logo=githubsponsors&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=500&color=00F5FF&center=true&vCenter=true&width=600&lines=Building+cool+things+with+code;Open+Source+Contributor;AI+%26+ML+Enthusiast;Turning+coffee+into+code+☕" />
+</p>
+
+<hr style="height:2px;border:none;background:linear-gradient(90deg,#ff00cc,#3333ff,#00f5ff,#00ff99);" />
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff7,100:ff00cc&height=3&section=header&text=&fontSize=0" />
+</p>
 
 ## 🌈 About Me
 
@@ -26,65 +37,41 @@ Vibe: Neon, Clean Code, Late‑Night Debugging
 
 ---
 
-## 🧠 Developer Stats
+
+
+
+##  Developer 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanshika2720&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshika2720&theme=tokyonight" />
-</p>
-
----
-
-## 🛠 Tech Stack (Powered by Code & Coffee ☕)
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,c,react,nodejs,django,git,github,vscode" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="120" />
 </p>
 
 ---
 
-## 🏆 Achievements — Neon Mode Activated ✨
+##  Tech Stack (Powered by Code & Coffee ☕)
 
-* ⭐ **128+ Open Source Contributions**
-* 🚀 **22+ Pull Requests**
-* ✅ **10+ Merged PRs**
-* 📦 **9+ Public Repositories**
-* 🤖 **AI & ML Project Contributor**
-* 💡 **Active Community Collaborator**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,c,react,nodejs,django,git,github,vscode,mysql,tailwind,bootstrap" />
+   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80" />
+</p>
+
 
 ---
 
-## 🐍 Contribution Snake Animation
+## 🏆 Achievements ✨
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vanshika2720/vanshika2720/output/github-contribution-grid-snake.svg" />
+  <img src="https://img.shields.io/badge/Open%20Source%20Contributions-128%2B-00fff7?style=for-the-badge&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/badge/Merged%20Pull%20Requests-10%2B-ff00cc?style=for-the-badge&logo=git&logoColor=black" />
+  <img src="https://img.shields.io/badge/Total%20Pull%20Requests-22%2B-7c4dff?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Public%20Repositories-9%2B-00e676?style=for-the-badge&logo=github&logoColor=black" />
 </p>
+
+<table align="center">
+<tr>
 
 ---
 
-## 📊 Live Language Donut
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshika2720&layout=donut&theme=tokyonight" />
-</p>
 
----
-
-## ✨ Floating Particle Divider
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
-</p>
-
----
-
-## 🎧 Coding Vibes Only
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-</p>
-
-<p align="center"><b>⚡ Build cool things. Break limits. Repeat.</b></p>
