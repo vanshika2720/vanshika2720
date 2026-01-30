@@ -48,7 +48,7 @@ Vibe: Neon, Clean Code, Late‑Night Debugging
 
 ---
 
-##  Tech Stack (Powered by Code & Coffee ☕)
+##  Tech Stack 
 
 
 <p align="center">
