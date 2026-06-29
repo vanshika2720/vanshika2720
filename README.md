@@ -59,14 +59,7 @@ Vibe: Neon, Clean Code, Late‑Night Debugging
 
 ---
 
-## 🏆 Achievements ✨
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source%20Contributions-128%2B-00fff7?style=for-the-badge&logo=github&logoColor=black" />
-  <img src="https://img.shields.io/badge/Merged%20Pull%20Requests-10%2B-ff00cc?style=for-the-badge&logo=git&logoColor=black" />
-  <img src="https://img.shields.io/badge/Total%20Pull%20Requests-22%2B-7c4dff?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Public%20Repositories-9%2B-00e676?style=for-the-badge&logo=github&logoColor=black" />
-</p>
 
 <table align="center">
 <tr>
